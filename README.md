@@ -5,3 +5,9 @@ I included scientific societies and PhD programs as these are entities that stud
 Curations are included as json files in the `data/` directory.
 These are based on best efforts to examine websites associated with the program and are likely to be incomplete.
 Please feel free to improve everything abut this effort by filing pull requests or providing information in issues.
+
+Sets of programs to consider curating:
+* http://www.cbd.cmu.edu/about-us/list-of-educational-programs-in-computational-biology/
+* https://crackingthebiocode.github.io/degrees.html
+* https://crackingthebiocode.github.io/degrees.html
+* https://www.iscb.org/iscb-degree-certificate-programs
