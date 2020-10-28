@@ -9,3 +9,4 @@ Programs were collected from
 * http://www.cbd.cmu.edu/about-us/list-of-educational-programs-in-computational-biology/
 * https://www.iscb.org/iscb-degree-certificate-programs
 * https://crackingthebiocode.github.io/degrees.html
+* community curation
